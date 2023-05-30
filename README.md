@@ -36,7 +36,7 @@ yarn build
 npm run build
 
 # pnpm
-pnpm build
+npm build
 ```
 
 ### Customize configuration
