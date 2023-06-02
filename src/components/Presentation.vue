@@ -17,7 +17,7 @@
       
           ></v-img>
           <br>
-            <div class="text-overline mb-1">
+            <div class="text-overline mb-1" style="color: #ff9800">
                 {{data.hello}}
             </div>
          
@@ -30,7 +30,8 @@
     <div>
      <h4> Me contacter</h4>
    
-      Email: <a :href="'mailto:' + data.email">{{ data.email }}</a>
+     <v-btn size="small" append-icon="mdi-email" :href="'mailto:' + data.email" style="bottom: 2px;" >Email</v-btn>
+      
       <br>
       Téléphone: {{ data.phone }}
       <br>
@@ -78,7 +79,7 @@
         </v-col>
         <v-col cols="8">
           <div>
-            <div class="text-overline mb-1">
+            <div class="text-overline mb-1" style="color: #ff9800">
                 {{data.hello}}
             </div>
          
@@ -91,8 +92,8 @@
     <div>
      <h4> Me contacter</h4>
    
-      Email: <a :href="'mailto:' + data.email">{{ data.email }}</a>
-      <br>
+    <v-btn size="small" append-icon="mdi-email" :href="'mailto:' + data.email" style="bottom: 2px;" >Email</v-btn>
+    <br> 
       Téléphone: {{ data.phone }}
       <br>
       Ville: {{ data.city }}

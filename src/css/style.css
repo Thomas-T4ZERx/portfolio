@@ -1,6 +1,12 @@
 .titleH1{
     text-align: center; 
-    font-size: 200%;    
+    font-size: 200%;   
+    color: #ff9800; 
+}
+
+.navbarItem{
+  color: #ff9800; 
+  font-weight: bold;
 }
 
 .page-container {

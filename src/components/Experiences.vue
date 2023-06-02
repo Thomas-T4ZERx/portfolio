@@ -10,6 +10,7 @@
   <v-list-item 
   v-for="experience in data.experiences" :key="experience.id"
   class="text-center"
+  dot-color="#1966c0"
   >
   <div>
            <div class="text-h4">  {{experience.entreprise}}</div>
@@ -28,7 +29,7 @@
       <section v-scrollanimation>
         <v-container>
           <v-timeline align="start">
-            <v-timeline-item v-for="experience in data.experiences" :key="experience.id">
+            <v-timeline-item v-for="experience in data.experiences" :key="experience.id" dot-color="#1966c0">
               <template v-slot:opposite>
                 <div>
                   <div class="text-h4">{{ experience.entreprise }}</div>

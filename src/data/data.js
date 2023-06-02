@@ -185,5 +185,55 @@ realisations:{
             
         },
     }
+},
+mentions:{
+    description1:`Informations générales :<br>
+    SAUVAGEOT Thomas<br>
+    151 rue d'auxonne 21000 Dijon<br>
+    thomassauvageot@outlook.com<br>
+    06.47.64.53.03<br>
+    `,
+    description2:`Propriété intellectuelle :<br>
+    Tous les contenus présents sur ce portfolio en ligne, y compris, mais sans s'y limiter, les textes, les images, les vidéos, les graphiques et les logos, sont la propriété intellectuelle de SAUVAGEOT Thomas, sauf indication contraire. Toute utilisation non autorisée de ces contenus est strictement interdite.
+    `,
+    description3:`Responsabilité :<br>
+    Je m'efforce de maintenir les informations présentes sur ce portfolio en ligne à jour et exactes. Cependant, je ne peux garantir ni l'exactitude ni l'exhaustivité de ces informations. Par conséquent, je décline toute responsabilité quant aux dommages ou pertes découlant de l'utilisation de ce portfolio en ligne. 
+    `,
+    description4:`Liens externes :<br>
+    Ce portfolio en ligne peut contenir des liens vers des sites externes. Je n'ai aucun contrôle sur le contenu ou la disponibilité de ces sites et je ne peux être tenu responsable des dommages ou pertes découlant de leur utilisation. 
+    `,
+    description5:`Collecte de données :<br>
+    Je peux collecter des données personnelles, telles que votre nom et votre adresse e-mail, lorsque vous utilisez ce portfolio en ligne. Ces données seront utilisées uniquement dans le but de répondre à vos demandes et de vous fournir les informations demandées. Je m'engage à respecter la législation française sur la protection des données et à ne pas partager vos informations personnelles avec des tiers sans votre consentement.
+    `,
+    description6:`Cookies :<br>
+    Ce portfolio en ligne utilise des cookies pour améliorer votre expérience de navigation. Les cookies sont de petits fichiers texte stockés sur votre appareil qui nous aident à analyser les habitudes de navigation des utilisateurs et à fournir des fonctionnalités personnalisées. Vous pouvez refuser l'utilisation des cookies en modifiant les paramètres de votre navigateur, mais cela peut affecter le bon fonctionnement du site.
+    `,
+    description7:`Droit applicable :<br>
+    Ces mentions légales sont régies par le droit français. Tout litige découlant de l'utilisation de ce portfolio en ligne sera soumis à la compétence exclusive des tribunaux français.
+     `,
+},
+politiques:{
+    description1:`Nous accordons une grande importance à la confidentialité de vos informations personnelles. Cette politique de confidentialité explique comment nous traitons et protégeons les données que vous pourriez nous fournir lors de votre visite sur notre portfolio en ligne.
+    `,
+    description2:`Collecte de données personnelles :<br>
+    Nous tenons à vous informer que nous ne collectons aucune donnée personnelle identifiable lorsque vous visitez notre portfolio en ligne. Nous ne demandons ni ne stockons aucune information personnelle telle que votre nom, adresse e-mail, numéro de téléphone, ou toute autre donnée similaire.
+    `,
+    description3:`Utilisation des cookies :<br>
+    Nous utilisons des cookies pour améliorer votre expérience de navigation sur notre portfolio en ligne. Les cookies sont de petits fichiers texte stockés sur votre appareil lorsque vous accédez à notre site. Ces cookies nous aident à analyser les habitudes de navigation des utilisateurs et à fournir des fonctionnalités personnalisées. Cependant, ces cookies ne collectent pas d'informations personnelles identifiables.
+    `,
+    description4:`Partage d'informations :<br>
+    Étant donné que nous ne collectons aucune donnée personnelle, nous ne partageons pas vos informations avec des tiers. Nous ne vendons, n'échangeons, ni ne transférons de quelque manière que ce soit des informations personnelles à des tiers.
+    `,
+    description5:`Liens externes :<br>
+    Notre portfolio en ligne peut contenir des liens vers d'autres sites web. Veuillez noter que nous ne sommes pas responsables du contenu ou des pratiques de confidentialité de ces sites externes. Nous vous encourageons à consulter les politiques de confidentialité de ces sites tiers avant de fournir toute information personnelle.
+    `,
+    description6:`Sécurité des données :<br>
+    Nous mettons en œuvre des mesures de sécurité appropriées pour protéger les informations que vous nous avez fournies contre tout accès non autorisé, toute divulgation, toute altération ou destruction. Cependant, veuillez noter que malgré nos efforts, aucune méthode de transmission de données sur Internet ou de stockage électronique n'est totalement sécurisée. Nous ne pouvons donc pas garantir une sécurité absolue.
+    `,
+    description7:`Modification de la politique de confidentialité :<br>
+    Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Toute modification sera publiée sur cette page, et la date de mise à jour en haut de cette page sera révisée. Nous vous encourageons à consulter régulièrement cette politique de confidentialité pour rester informé des éventuelles mises à jour.
+    `, 
+    description8:`Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité, veuillez nous contacter à thomassauvageot@outlook.com.
+    `, 
 }
 }
