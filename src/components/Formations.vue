@@ -10,6 +10,7 @@
    <v-list lines="three">
   <v-list-item 
   v-for="formation in data.formations" :key="formation.id" class="text-center"
+  dot-color="#1966c0"
   >
   <div>
            <div class="text-h4">  {{formation.school}}</div>
@@ -25,7 +26,7 @@
     <div v-else>
       <!-- Afficher la version normale pour les autres écrans -->
       <v-timeline direction="horizontal" line-inset="12">
-        <v-timeline-item v-for="formation in data.formations" :key="formation.id">
+        <v-timeline-item v-for="formation in data.formations" :key="formation.id"  dot-color="#1966c0">
           <template v-slot:opposite>
             <p style="text-align: center;">
               <div class="text-h6">{{ formation.school }}</div>

@@ -4,7 +4,7 @@
       <v-list>
         <v-list-item>
           
-          <v-toolbar-title>Portfolio Thomas SAUVAGEOT
+          <v-toolbar-title class="navbarItem">Portfolio Thomas SAUVAGEOT
           <v-btn variant="text" icon="mdi-dots-vertical" flat @click="toggleSections"></v-btn>
         </v-toolbar-title>
         </v-list-item>
@@ -13,8 +13,8 @@
 
     <v-card v-if="showSections">
       <v-list>
-        <v-list-item v-for="section in sections" :key="section.id" class="text-center">
-          <v-btn flat @click="scrollToSection(section.id)">{{ section.label }}</v-btn>
+        <v-list-item v-for="section in sections" :key="section.id" class="text-center navbarItem">
+          <v-btn flat @click="scrollToSection(section.id)"  class="navbarItem">{{ section.label }}</v-btn>
         </v-list-item>
       </v-list>
     </v-card>
@@ -22,14 +22,14 @@
   <div v-else>
     <v-toolbar class="bg-grey-lighten-4">
       <v-toolbar-side-icon></v-toolbar-side-icon>
-      <v-toolbar-title class="hidden-sm-and-down">SAUVAGEOT Thomas</v-toolbar-title>
+      <v-toolbar-title class="hidden-sm-and-down navbarItem">SAUVAGEOT Thomas</v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-toolbar-items>
-        <v-btn flat @click="scrollToSection('presentation')">Présentation</v-btn>
-        <v-btn flat @click="scrollToSection('skills')">Compétences</v-btn>
-        <v-btn flat @click="scrollToSection('experiences')">Expériences</v-btn>
-        <v-btn flat @click="scrollToSection('formations')">Formations</v-btn>
-        <v-btn flat @click="scrollToSection('realisations')">Réalisations</v-btn>
+      <v-toolbar-items class="navbarItem">
+        <v-btn flat @click="scrollToSection('presentation')"  class="navbarItem">Présentation</v-btn>
+        <v-btn flat @click="scrollToSection('skills')" class="navbarItem">Compétences</v-btn>
+        <v-btn flat @click="scrollToSection('experiences')" class="navbarItem">Expériences</v-btn>
+        <v-btn flat @click="scrollToSection('formations')" class="navbarItem">Formations</v-btn>
+        <v-btn flat @click="scrollToSection('realisations')" class="navbarItem">Réalisations</v-btn>
       </v-toolbar-items>
     </v-toolbar>
   </div> 

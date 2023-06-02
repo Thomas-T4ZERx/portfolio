@@ -34,7 +34,7 @@
     </div>
 
     <div class="font-weight-light text-h6 mb-2">
-      <a v-if="realisation.url" :href="realisation.url" target="_blank">Voir le site</a>
+      <v-btn v-if="realisation.url" :href="realisation.url"  target="_blank"  color="primary">Voir le site</v-btn> 
     </div>
   </v-card-text>
 </v-card>
@@ -73,7 +73,7 @@
               </div>
 
               <div class="font-weight-light text-h6 mb-2">
-              <a v-if="realisation.url" :href="realisation.url"  target="_blank">Voir le site</a> 
+              <v-btn v-if="realisation.url" :href="realisation.url"  target="_blank"  color="primary">Voir le site</v-btn> 
               </div>
             </v-card-text>
           </v-card>
