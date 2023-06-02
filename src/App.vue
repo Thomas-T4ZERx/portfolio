@@ -2,7 +2,7 @@
   <v-app>
     <v-main>
       <Navbar />
-      <SidePictures />
+      <SidePictures/>
       <div class="page-container">
         <div class="content-container">
           <Presentation />
