@@ -2,7 +2,7 @@ export default {
 presentation:{
     title: "Présentation",
     hello: "Bonjour,",
-    texte: `Je m'appelle Thomas SAUVAGEOT et j'ai 29 ans. Je travaille dans le domaine du développement web. J'ai acquis de solides compétences grâce à mes études et à mon parcours professionnel.
+    texte: `Je m'appelle Thomas SAUVAGEOT et j'ai 30 ans. Je travaille dans le domaine du développement web. J'ai acquis de solides compétences grâce à mes études et à mon parcours professionnel.
     <br>
 Je suis titulaire d'un MBA (Master of Business Administration), ce qui m'a permis de développer une vision globale des enjeux stratégiques et managériaux dans le domaine de l'informatique. Cette formation m'a apporté des connaissances approfondies en gestion de projet, en analyse des besoins et en coordination d'équipes.
 En parallèle, j'ai également obtenu une licence ASI (Administrateur des Systèmes d'Information). Cette formation m'a permis de développer des compétences techniques solides dans le développement informatique.
@@ -23,11 +23,11 @@ langages: 'Français, Anglais',
 networks: 'Mes réseaux',
 icone: {
     github : {
-        icone: 'mdi-github', 
+        icone: 'mdi-github',
         url :'https://github.com/Thomas-T4ZERx'
         },
     linkedin: {
-        icone: 'mdi-linkedin', 
+        icone: 'mdi-linkedin',
         url :'https://www.linkedin.com/in/thomas-sauvageot-990480130/'
         }
     }
@@ -63,7 +63,7 @@ skills:{
 },
 experiences:{
     title: "Expériences",
-    experiences:{ 
+    experiences:{
         pageup:{
             entreprise: 'Page Up',
             date: 'Novembre 2022 – Actuellement',
@@ -105,7 +105,7 @@ experiences:{
 },
 formations:{
     title: "Formations",
-    formations:{ 
+    formations:{
         BAC:{
             school: 'Lycée Saint Joseph',
             date: '2012',
@@ -140,7 +140,7 @@ formations:{
 },
 realisations:{
     title: "Réalisations",
-    realisations:{ 
+    realisations:{
         devandtech:{
             enterprise: 'Dev&Tech',
             description: 'refonte en cours',
@@ -182,7 +182,7 @@ realisations:{
             langages: 'Laravel et SQL',
             url: 'https://usarboisrugby.com/',
             image:"arbois.jpg"
-            
+
         },
     }
 },
@@ -197,10 +197,10 @@ mentions:{
     Tous les contenus présents sur ce portfolio en ligne, y compris, mais sans s'y limiter, les textes, les images, les vidéos, les graphiques et les logos, sont la propriété intellectuelle de SAUVAGEOT Thomas, sauf indication contraire. Toute utilisation non autorisée de ces contenus est strictement interdite.
     `,
     description3:`Responsabilité :<br>
-    Je m'efforce de maintenir les informations présentes sur ce portfolio en ligne à jour et exactes. Cependant, je ne peux garantir ni l'exactitude ni l'exhaustivité de ces informations. Par conséquent, je décline toute responsabilité quant aux dommages ou pertes découlant de l'utilisation de ce portfolio en ligne. 
+    Je m'efforce de maintenir les informations présentes sur ce portfolio en ligne à jour et exactes. Cependant, je ne peux garantir ni l'exactitude ni l'exhaustivité de ces informations. Par conséquent, je décline toute responsabilité quant aux dommages ou pertes découlant de l'utilisation de ce portfolio en ligne.
     `,
     description4:`Liens externes :<br>
-    Ce portfolio en ligne peut contenir des liens vers des sites externes. Je n'ai aucun contrôle sur le contenu ou la disponibilité de ces sites et je ne peux être tenu responsable des dommages ou pertes découlant de leur utilisation. 
+    Ce portfolio en ligne peut contenir des liens vers des sites externes. Je n'ai aucun contrôle sur le contenu ou la disponibilité de ces sites et je ne peux être tenu responsable des dommages ou pertes découlant de leur utilisation.
     `,
     description5:`Collecte de données :<br>
     Je peux collecter des données personnelles, telles que votre nom et votre adresse e-mail, lorsque vous utilisez ce portfolio en ligne. Ces données seront utilisées uniquement dans le but de répondre à vos demandes et de vous fournir les informations demandées. Je m'engage à respecter la législation française sur la protection des données et à ne pas partager vos informations personnelles avec des tiers sans votre consentement.
@@ -232,8 +232,8 @@ politiques:{
     `,
     description7:`Modification de la politique de confidentialité :<br>
     Nous nous réservons le droit de modifier cette politique de confidentialité à tout moment. Toute modification sera publiée sur cette page, et la date de mise à jour en haut de cette page sera révisée. Nous vous encourageons à consulter régulièrement cette politique de confidentialité pour rester informé des éventuelles mises à jour.
-    `, 
+    `,
     description8:`Si vous avez des questions ou des préoccupations concernant notre politique de confidentialité, veuillez nous contacter à thomassauvageot@outlook.com.
-    `, 
+    `,
 }
 }
